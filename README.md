@@ -74,3 +74,6 @@ The HR Analytics project provided valuable insights into employee-related trends
 # Next Steps:
 Additional data can be incorporated for deeper insights, such as adding performance review data or external factors (e.g., industry benchmarks).
 Further analysis can be done to predict future attrition or satisfaction levels using machine learning models.
+
+
+<img width="1191" height="692" alt="Hr" src="https://github.com/user-attachments/assets/13ae5d65-3132-4aab-b6b3-eb411612b5cd" />
